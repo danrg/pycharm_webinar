@@ -1,0 +1,6 @@
+bs4
+ipython
+matplotlib
+pandas
+seaborn
+jupyter
